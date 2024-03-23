@@ -7,3 +7,5 @@ while i < 10:
     if i == 5:
         break
     i += 1
+else:
+    print ("i is no longer less than 10")
