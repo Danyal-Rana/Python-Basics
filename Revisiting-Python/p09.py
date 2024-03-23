@@ -10,3 +10,5 @@ while i < 10:
         continue
 else:
     print ("i is no longer less than 10")
+
+myStirng = "pakistan"
